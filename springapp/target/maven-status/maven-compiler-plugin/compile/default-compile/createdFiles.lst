@@ -1,1 +1,4 @@
 com/example/springapp/SpringappApplication.class
+com/example/springapp/controller/UserController.class
+com/example/springapp/service/UserService.class
+com/example/springapp/model/User.class
